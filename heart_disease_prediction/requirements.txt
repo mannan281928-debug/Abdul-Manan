@@ -3,3 +3,5 @@ pandas
 numpy
 pillow
 scikit-learn==1.9.1
+fpdf2>=2.7    # optional: enables the PDF download button
+ 
