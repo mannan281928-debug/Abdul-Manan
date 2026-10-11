@@ -18,4 +18,4 @@ python -m streamlit run app.py
 ```
 
 ## Live app
-Add your link here after deploying: https://abdul-manan-4of6vkpqiwh7dncty6xyfn.streamlit.app/
+Add your link here after deploying: https://abdul-manan-ajyc6ecs5snyefspdphwnd.streamlit.app/
