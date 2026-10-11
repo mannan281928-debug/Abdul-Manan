@@ -1,0 +1,866 @@
+Age,Gender,ChestPain,ExerciseAngina,HeartDisease
+63,Male,Typical angina,No,No
+67,Male,Asymptomatic,Yes,Yes
+67,Male,Asymptomatic,Yes,Yes
+37,Male,Non-anginal pain,No,No
+41,Female,Atypical angina,No,No
+56,Male,Atypical angina,No,No
+62,Female,Asymptomatic,No,Yes
+57,Female,Asymptomatic,Yes,No
+63,Male,Asymptomatic,No,Yes
+53,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,No,No
+56,Female,Atypical angina,No,No
+56,Male,Non-anginal pain,Yes,Yes
+44,Male,Atypical angina,No,No
+52,Male,Non-anginal pain,No,No
+57,Male,Non-anginal pain,No,No
+48,Male,Atypical angina,No,Yes
+54,Male,Asymptomatic,No,No
+48,Female,Non-anginal pain,No,No
+49,Male,Atypical angina,No,No
+64,Male,Typical angina,Yes,No
+58,Female,Typical angina,No,No
+58,Male,Atypical angina,No,Yes
+58,Male,Non-anginal pain,No,Yes
+60,Male,Asymptomatic,Yes,Yes
+50,Female,Non-anginal pain,No,No
+58,Female,Non-anginal pain,No,No
+66,Female,Typical angina,No,No
+43,Male,Asymptomatic,No,No
+40,Male,Asymptomatic,Yes,Yes
+69,Female,Typical angina,No,No
+60,Male,Asymptomatic,Yes,Yes
+64,Male,Non-anginal pain,No,Yes
+59,Male,Asymptomatic,No,No
+44,Male,Non-anginal pain,Yes,No
+42,Male,Asymptomatic,No,No
+43,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+55,Male,Asymptomatic,Yes,Yes
+61,Male,Non-anginal pain,Yes,No
+65,Female,Asymptomatic,No,Yes
+40,Male,Typical angina,Yes,No
+71,Female,Atypical angina,No,No
+59,Male,Non-anginal pain,No,No
+61,Female,Asymptomatic,No,Yes
+58,Male,Non-anginal pain,No,Yes
+51,Male,Non-anginal pain,No,No
+50,Male,Asymptomatic,No,Yes
+65,Female,Non-anginal pain,No,No
+53,Male,Non-anginal pain,No,No
+41,Female,Atypical angina,No,No
+65,Male,Asymptomatic,No,No
+44,Male,Asymptomatic,No,Yes
+44,Male,Atypical angina,No,No
+60,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+50,Male,Non-anginal pain,No,Yes
+41,Male,Asymptomatic,No,Yes
+54,Male,Non-anginal pain,No,No
+51,Male,Typical angina,Yes,No
+51,Female,Asymptomatic,Yes,Yes
+46,Female,Non-anginal pain,Yes,No
+58,Male,Asymptomatic,Yes,Yes
+54,Female,Non-anginal pain,No,No
+54,Male,Asymptomatic,No,Yes
+60,Male,Asymptomatic,Yes,Yes
+60,Male,Non-anginal pain,No,Yes
+54,Male,Non-anginal pain,No,No
+59,Male,Asymptomatic,Yes,Yes
+46,Male,Non-anginal pain,No,Yes
+65,Female,Non-anginal pain,No,No
+67,Male,Asymptomatic,No,Yes
+62,Male,Asymptomatic,Yes,Yes
+65,Male,Asymptomatic,No,Yes
+44,Male,Asymptomatic,No,Yes
+65,Female,Non-anginal pain,No,No
+60,Male,Asymptomatic,Yes,Yes
+51,Female,Non-anginal pain,No,No
+48,Male,Atypical angina,No,No
+58,Male,Asymptomatic,Yes,Yes
+45,Male,Asymptomatic,Yes,No
+53,Female,Asymptomatic,No,No
+39,Male,Non-anginal pain,No,No
+68,Male,Non-anginal pain,Yes,Yes
+52,Male,Atypical angina,No,No
+44,Male,Non-anginal pain,No,No
+47,Male,Non-anginal pain,No,No
+53,Female,Non-anginal pain,No,No
+53,Female,Asymptomatic,No,No
+51,Female,Non-anginal pain,No,No
+66,Male,Asymptomatic,No,No
+62,Female,Asymptomatic,No,Yes
+62,Male,Non-anginal pain,No,No
+44,Female,Non-anginal pain,No,No
+63,Female,Non-anginal pain,No,No
+52,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,Yes
+60,Female,Asymptomatic,No,Yes
+52,Male,Atypical angina,No,No
+48,Male,Asymptomatic,No,No
+45,Male,Asymptomatic,No,No
+34,Male,Typical angina,No,No
+57,Female,Asymptomatic,No,No
+71,Female,Non-anginal pain,No,No
+49,Male,Non-anginal pain,No,Yes
+54,Male,Atypical angina,No,No
+59,Male,Asymptomatic,Yes,Yes
+57,Male,Non-anginal pain,No,Yes
+61,Male,Asymptomatic,Yes,Yes
+39,Male,Asymptomatic,No,Yes
+61,Female,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+52,Male,Typical angina,No,No
+43,Female,Asymptomatic,Yes,Yes
+62,Female,Non-anginal pain,No,Yes
+41,Male,Atypical angina,No,No
+58,Male,Non-anginal pain,No,No
+35,Female,Asymptomatic,No,No
+63,Male,Asymptomatic,Yes,Yes
+65,Male,Asymptomatic,No,Yes
+48,Male,Asymptomatic,Yes,Yes
+63,Female,Asymptomatic,No,Yes
+51,Male,Non-anginal pain,Yes,No
+55,Male,Asymptomatic,Yes,Yes
+65,Male,Typical angina,No,Yes
+45,Female,Atypical angina,No,No
+56,Female,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+44,Male,Atypical angina,No,No
+62,Female,Asymptomatic,No,No
+54,Male,Non-anginal pain,No,No
+51,Male,Non-anginal pain,Yes,No
+29,Male,Atypical angina,No,No
+51,Male,Asymptomatic,Yes,No
+43,Female,Non-anginal pain,No,No
+55,Female,Atypical angina,No,No
+70,Male,Asymptomatic,Yes,Yes
+62,Male,Atypical angina,No,Yes
+35,Male,Asymptomatic,Yes,Yes
+51,Male,Non-anginal pain,No,No
+59,Male,Atypical angina,Yes,No
+59,Male,Typical angina,No,Yes
+52,Male,Atypical angina,No,No
+64,Male,Non-anginal pain,Yes,Yes
+58,Male,Non-anginal pain,Yes,No
+47,Male,Non-anginal pain,No,Yes
+57,Male,Asymptomatic,No,Yes
+41,Male,Non-anginal pain,No,No
+45,Male,Atypical angina,No,No
+60,Female,Non-anginal pain,No,No
+52,Male,Typical angina,No,No
+42,Female,Asymptomatic,No,No
+67,Female,Non-anginal pain,No,No
+55,Male,Asymptomatic,Yes,Yes
+64,Male,Asymptomatic,Yes,Yes
+70,Male,Asymptomatic,No,Yes
+51,Male,Asymptomatic,Yes,Yes
+58,Male,Asymptomatic,No,Yes
+60,Male,Asymptomatic,No,Yes
+68,Male,Non-anginal pain,No,No
+46,Male,Atypical angina,No,No
+77,Male,Asymptomatic,Yes,Yes
+54,Female,Non-anginal pain,No,No
+58,Female,Asymptomatic,No,No
+48,Male,Non-anginal pain,No,No
+57,Male,Asymptomatic,Yes,No
+52,Male,Non-anginal pain,No,No
+54,Female,Atypical angina,Yes,No
+35,Male,Asymptomatic,Yes,Yes
+45,Female,Atypical angina,No,No
+70,Male,Non-anginal pain,Yes,Yes
+53,Male,Asymptomatic,Yes,No
+59,Female,Asymptomatic,Yes,Yes
+62,Female,Asymptomatic,No,No
+64,Male,Asymptomatic,No,Yes
+57,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,No,No
+56,Male,Asymptomatic,Yes,Yes
+43,Male,Non-anginal pain,No,No
+53,Male,Non-anginal pain,No,No
+48,Male,Asymptomatic,No,Yes
+56,Female,Asymptomatic,Yes,Yes
+42,Male,Typical angina,No,No
+59,Male,Typical angina,No,No
+60,Female,Asymptomatic,No,Yes
+63,Female,Atypical angina,No,No
+42,Male,Non-anginal pain,No,No
+66,Male,Atypical angina,Yes,Yes
+54,Male,Atypical angina,No,Yes
+69,Male,Non-anginal pain,No,Yes
+50,Male,Non-anginal pain,No,No
+51,Male,Asymptomatic,Yes,Yes
+43,Male,Asymptomatic,Yes,Yes
+62,Female,Asymptomatic,No,Yes
+68,Female,Non-anginal pain,No,No
+67,Male,Asymptomatic,Yes,Yes
+69,Male,Typical angina,No,No
+45,Female,Asymptomatic,Yes,No
+50,Female,Atypical angina,No,No
+59,Male,Typical angina,No,Yes
+50,Female,Asymptomatic,No,No
+64,Female,Asymptomatic,Yes,No
+57,Male,Non-anginal pain,No,No
+64,Female,Non-anginal pain,No,No
+43,Male,Asymptomatic,No,No
+45,Male,Asymptomatic,Yes,Yes
+58,Male,Asymptomatic,Yes,Yes
+50,Male,Asymptomatic,Yes,Yes
+55,Male,Atypical angina,No,No
+62,Female,Asymptomatic,Yes,Yes
+37,Female,Non-anginal pain,No,No
+38,Male,Typical angina,Yes,Yes
+41,Male,Non-anginal pain,No,No
+66,Female,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,No,Yes
+56,Male,Typical angina,No,No
+46,Female,Atypical angina,No,No
+46,Female,Asymptomatic,Yes,No
+64,Female,Asymptomatic,No,No
+59,Male,Asymptomatic,No,No
+41,Female,Non-anginal pain,Yes,No
+54,Female,Non-anginal pain,No,No
+39,Female,Non-anginal pain,No,No
+53,Male,Asymptomatic,Yes,Yes
+63,Female,Asymptomatic,Yes,Yes
+34,Female,Atypical angina,No,No
+47,Male,Asymptomatic,No,No
+67,Female,Non-anginal pain,No,No
+54,Male,Asymptomatic,Yes,Yes
+66,Male,Asymptomatic,Yes,Yes
+52,Female,Non-anginal pain,No,No
+55,Female,Asymptomatic,Yes,Yes
+49,Male,Non-anginal pain,No,Yes
+74,Female,Atypical angina,Yes,No
+54,Female,Non-anginal pain,No,No
+54,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,No,Yes
+49,Female,Atypical angina,No,No
+42,Male,Atypical angina,No,No
+41,Male,Atypical angina,No,No
+41,Female,Atypical angina,No,No
+49,Female,Asymptomatic,No,No
+61,Male,Typical angina,No,Yes
+60,Female,Non-anginal pain,No,No
+67,Male,Asymptomatic,No,Yes
+58,Male,Asymptomatic,No,Yes
+47,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,No,Yes
+62,Male,Atypical angina,No,No
+57,Male,Asymptomatic,Yes,No
+58,Male,Asymptomatic,No,Yes
+64,Male,Asymptomatic,Yes,No
+51,Female,Non-anginal pain,No,No
+43,Male,Asymptomatic,No,No
+42,Female,Non-anginal pain,No,No
+67,Female,Asymptomatic,No,No
+76,Female,Non-anginal pain,No,No
+70,Male,Atypical angina,No,No
+57,Male,Atypical angina,No,Yes
+44,Female,Non-anginal pain,No,No
+58,Female,Atypical angina,No,Yes
+60,Female,Typical angina,No,No
+44,Male,Non-anginal pain,No,No
+61,Male,Asymptomatic,Yes,Yes
+42,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+59,Male,Non-anginal pain,No,Yes
+40,Male,Asymptomatic,No,Yes
+42,Male,Non-anginal pain,No,No
+61,Male,Asymptomatic,Yes,Yes
+66,Male,Asymptomatic,No,No
+46,Male,Asymptomatic,Yes,Yes
+71,Female,Asymptomatic,No,No
+59,Male,Typical angina,No,Yes
+64,Male,Typical angina,No,No
+66,Female,Non-anginal pain,No,No
+39,Female,Non-anginal pain,No,No
+57,Male,Atypical angina,No,Yes
+58,Female,Asymptomatic,No,No
+57,Male,Asymptomatic,Yes,Yes
+47,Male,Non-anginal pain,No,No
+55,Female,Asymptomatic,Yes,Yes
+35,Male,Atypical angina,No,No
+61,Male,Asymptomatic,No,Yes
+58,Male,Asymptomatic,No,Yes
+58,Female,Asymptomatic,Yes,Yes
+58,Male,Atypical angina,No,No
+56,Male,Atypical angina,No,No
+56,Male,Atypical angina,No,No
+67,Male,Non-anginal pain,No,Yes
+55,Female,Atypical angina,No,No
+44,Male,Asymptomatic,Yes,Yes
+63,Male,Asymptomatic,Yes,Yes
+63,Female,Asymptomatic,Yes,Yes
+41,Male,Atypical angina,No,No
+59,Male,Asymptomatic,No,Yes
+57,Female,Asymptomatic,Yes,Yes
+45,Male,Typical angina,No,Yes
+68,Male,Asymptomatic,No,Yes
+57,Male,Asymptomatic,Yes,Yes
+57,Female,Atypical angina,No,Yes
+38,Male,Non-anginal pain,No,No
+28,Male,Atypical angina,No,No
+29,Male,Atypical angina,No,No
+29,Male,Atypical angina,No,No
+30,Female,Typical angina,No,No
+31,Female,Atypical angina,No,No
+32,Female,Atypical angina,No,No
+32,Male,Atypical angina,No,No
+32,Male,Atypical angina,No,No
+33,Male,Non-anginal pain,No,No
+34,Female,Atypical angina,No,No
+34,Male,Atypical angina,No,No
+34,Male,Atypical angina,No,No
+35,Female,Typical angina,No,No
+35,Female,Asymptomatic,No,No
+35,Male,Atypical angina,No,No
+35,Male,Atypical angina,No,No
+36,Male,Atypical angina,No,No
+36,Male,Non-anginal pain,No,No
+36,Male,Non-anginal pain,No,No
+36,Male,Non-anginal pain,No,No
+37,Female,Atypical angina,No,No
+37,Female,Non-anginal pain,No,No
+37,Female,Asymptomatic,No,No
+37,Male,Atypical angina,No,No
+37,Male,Non-anginal pain,No,No
+37,Male,Asymptomatic,No,No
+37,Male,Asymptomatic,No,No
+38,Female,Atypical angina,No,No
+38,Male,Atypical angina,No,No
+38,Male,Non-anginal pain,No,No
+39,Female,Non-anginal pain,No,No
+39,Male,Atypical angina,No,No
+39,Male,Atypical angina,Yes,No
+39,Male,Atypical angina,No,No
+39,Male,Atypical angina,No,No
+39,Male,Atypical angina,No,No
+39,Male,Non-anginal pain,No,No
+39,Male,Non-anginal pain,No,No
+39,Male,Asymptomatic,No,No
+39,Male,Asymptomatic,No,No
+40,Male,Atypical angina,No,No
+40,Male,Atypical angina,No,No
+40,Male,Non-anginal pain,No,No
+40,Male,Non-anginal pain,No,No
+40,Male,Non-anginal pain,No,No
+41,Female,Atypical angina,No,No
+41,Female,Atypical angina,No,No
+41,Female,Atypical angina,No,No
+41,Male,Atypical angina,No,No
+41,Male,Atypical angina,No,No
+41,Male,Atypical angina,No,No
+41,Male,Asymptomatic,No,No
+42,Female,Non-anginal pain,No,No
+42,Male,Atypical angina,No,No
+42,Male,Atypical angina,No,No
+42,Male,Atypical angina,No,No
+42,Male,Non-anginal pain,Yes,No
+42,Male,Non-anginal pain,No,No
+42,Male,Asymptomatic,No,No
+43,Female,Typical angina,No,No
+43,Female,Atypical angina,No,No
+43,Female,Atypical angina,No,No
+43,Female,Atypical angina,No,No
+43,Female,Atypical angina,No,No
+43,Female,Atypical angina,No,No
+43,Female,Non-anginal pain,No,No
+43,Male,Atypical angina,No,No
+44,Female,Asymptomatic,No,No
+44,Male,Atypical angina,No,No
+44,Male,Atypical angina,No,No
+44,Male,Asymptomatic,No,No
+45,Female,Atypical angina,No,No
+45,Female,Atypical angina,No,No
+45,Female,Asymptomatic,No,No
+45,Male,Atypical angina,No,No
+45,Male,Non-anginal pain,No,No
+45,Male,Asymptomatic,No,No
+45,Male,Asymptomatic,No,No
+46,Female,Asymptomatic,No,No
+46,Male,Atypical angina,Yes,No
+46,Male,Non-anginal pain,No,No
+46,Male,Non-anginal pain,No,No
+46,Male,Asymptomatic,Yes,No
+46,Male,Asymptomatic,No,No
+46,Male,Asymptomatic,No,No
+47,Female,Atypical angina,No,No
+47,Female,Non-anginal pain,No,No
+47,Male,Typical angina,No,No
+47,Male,Atypical angina,No,No
+47,Male,Asymptomatic,Yes,No
+48,Female,Atypical angina,No,No
+48,Female,Atypical angina,No,No
+48,Female,Non-anginal pain,No,No
+48,Female,Asymptomatic,No,No
+48,Female,Asymptomatic,No,No
+48,Female,Asymptomatic,Yes,No
+48,Male,Atypical angina,No,No
+48,Male,Atypical angina,No,No
+48,Male,Atypical angina,No,No
+48,Male,Non-anginal pain,No,No
+49,Female,Atypical angina,No,No
+49,Female,Atypical angina,No,No
+49,Female,Atypical angina,No,No
+49,Female,Non-anginal pain,No,No
+49,Male,Atypical angina,No,No
+49,Male,Non-anginal pain,No,No
+49,Male,Asymptomatic,No,No
+49,Male,Asymptomatic,No,No
+50,Female,Atypical angina,No,No
+50,Female,Asymptomatic,Yes,No
+50,Male,Atypical angina,No,No
+50,Male,Atypical angina,No,No
+50,Male,Atypical angina,No,No
+50,Male,Asymptomatic,No,No
+50,Male,Asymptomatic,Yes,No
+51,Female,Atypical angina,No,No
+51,Female,Non-anginal pain,No,No
+51,Female,Non-anginal pain,Yes,No
+51,Female,Non-anginal pain,No,No
+51,Male,Atypical angina,No,No
+51,Male,Atypical angina,No,No
+51,Male,Asymptomatic,No,No
+52,Female,Atypical angina,No,No
+52,Female,Atypical angina,No,No
+52,Female,Non-anginal pain,No,No
+52,Female,Asymptomatic,Yes,No
+52,Male,Atypical angina,No,No
+52,Male,Atypical angina,Yes,No
+52,Male,Atypical angina,No,No
+52,Male,Non-anginal pain,No,No
+53,Female,Atypical angina,No,No
+53,Female,Atypical angina,Yes,No
+53,Female,Non-anginal pain,No,No
+53,Male,Atypical angina,No,No
+53,Male,Atypical angina,No,No
+53,Male,Non-anginal pain,No,No
+53,Male,Asymptomatic,Yes,No
+53,Male,Asymptomatic,No,No
+53,Male,Asymptomatic,No,No
+54,Female,Atypical angina,No,No
+54,Female,Atypical angina,No,No
+54,Female,Atypical angina,No,No
+54,Female,Atypical angina,No,No
+54,Female,Atypical angina,No,No
+54,Female,Atypical angina,No,No
+54,Female,Atypical angina,No,No
+54,Male,Typical angina,No,No
+54,Male,Atypical angina,No,No
+54,Male,Atypical angina,No,No
+54,Male,Atypical angina,No,No
+54,Male,Atypical angina,No,No
+54,Male,Atypical angina,No,No
+54,Male,Non-anginal pain,No,No
+54,Male,Non-anginal pain,No,No
+54,Male,Asymptomatic,No,No
+55,Female,Atypical angina,No,No
+55,Female,Atypical angina,No,No
+55,Female,Atypical angina,No,No
+55,Male,Atypical angina,No,No
+55,Male,Atypical angina,No,No
+55,Male,Atypical angina,No,No
+55,Male,Non-anginal pain,No,No
+55,Male,Non-anginal pain,No,No
+55,Male,Asymptomatic,No,No
+55,Male,Asymptomatic,Yes,No
+56,Female,Non-anginal pain,No,No
+56,Male,Atypical angina,No,No
+56,Male,Non-anginal pain,No,No
+56,Male,Non-anginal pain,Yes,No
+56,Male,Asymptomatic,No,No
+57,Female,Typical angina,No,No
+57,Female,Asymptomatic,Yes,No
+57,Male,Atypical angina,No,No
+58,Male,Atypical angina,No,No
+58,Male,Atypical angina,No,No
+58,Male,Non-anginal pain,No,No
+58,Male,Asymptomatic,No,No
+59,Female,Atypical angina,No,No
+59,Male,Atypical angina,No,No
+59,Male,Non-anginal pain,Yes,No
+59,Male,Non-anginal pain,No,No
+59,Male,Asymptomatic,No,No
+60,Male,Non-anginal pain,No,No
+61,Female,Asymptomatic,Yes,No
+61,Male,Asymptomatic,Yes,No
+62,Female,Typical angina,No,No
+62,Male,Atypical angina,No,No
+31,Male,Asymptomatic,Yes,Yes
+33,Female,Asymptomatic,Yes,Yes
+34,Male,Typical angina,No,Yes
+35,Male,Atypical angina,No,Yes
+36,Male,Atypical angina,No,Yes
+37,Male,Asymptomatic,Yes,Yes
+38,Male,Asymptomatic,No,Yes
+38,Male,Asymptomatic,No,Yes
+38,Male,Asymptomatic,Yes,Yes
+40,Male,Asymptomatic,Yes,Yes
+41,Male,Asymptomatic,No,Yes
+41,Male,Asymptomatic,Yes,Yes
+43,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,No,Yes
+46,Male,Asymptomatic,Yes,Yes
+47,Male,Non-anginal pain,Yes,Yes
+47,Male,Asymptomatic,Yes,Yes
+48,Male,Asymptomatic,No,Yes
+48,Male,Asymptomatic,No,Yes
+48,Male,Asymptomatic,Yes,Yes
+49,Female,Non-anginal pain,No,Yes
+49,Male,Non-anginal pain,No,Yes
+49,Male,Asymptomatic,No,Yes
+50,Female,Non-anginal pain,Yes,Yes
+50,Male,Asymptomatic,No,Yes
+51,Female,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,No,Yes
+54,Male,Asymptomatic,No,Yes
+55,Male,Asymptomatic,Yes,Yes
+57,Male,Atypical angina,Yes,Yes
+58,Male,Non-anginal pain,No,Yes
+59,Female,Asymptomatic,Yes,Yes
+60,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,No,Yes
+65,Male,Asymptomatic,Yes,Yes
+32,Male,Asymptomatic,No,Yes
+38,Male,Asymptomatic,Yes,Yes
+39,Male,Asymptomatic,No,Yes
+40,Female,Asymptomatic,No,Yes
+43,Male,Typical angina,No,Yes
+45,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,No,Yes
+48,Male,Asymptomatic,Yes,Yes
+48,Male,Asymptomatic,Yes,Yes
+48,Male,Asymptomatic,Yes,Yes
+48,Male,Asymptomatic,Yes,Yes
+50,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,No,Yes
+52,Male,Asymptomatic,Yes,Yes
+53,Male,Asymptomatic,Yes,Yes
+54,Male,Non-anginal pain,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+55,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+58,Male,Non-anginal pain,No,Yes
+58,Male,Asymptomatic,Yes,Yes
+41,Male,Asymptomatic,No,Yes
+43,Male,Asymptomatic,Yes,Yes
+44,Male,Atypical angina,Yes,Yes
+44,Male,Asymptomatic,Yes,Yes
+46,Male,Typical angina,No,Yes
+47,Female,Non-anginal pain,No,Yes
+48,Female,Asymptomatic,Yes,Yes
+49,Male,Asymptomatic,Yes,Yes
+49,Male,Asymptomatic,Yes,Yes
+51,Male,Non-anginal pain,No,Yes
+52,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+53,Male,Non-anginal pain,No,Yes
+53,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,No,Yes
+55,Male,Typical angina,No,Yes
+55,Male,Atypical angina,Yes,Yes
+55,Male,Asymptomatic,Yes,Yes
+56,Female,Atypical angina,No,Yes
+56,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+58,Male,Atypical angina,Yes,Yes
+59,Male,Asymptomatic,No,Yes
+59,Male,Asymptomatic,Yes,Yes
+65,Male,Asymptomatic,Yes,Yes
+66,Male,Asymptomatic,Yes,Yes
+41,Male,Asymptomatic,Yes,Yes
+43,Male,Asymptomatic,Yes,Yes
+44,Male,Asymptomatic,No,Yes
+47,Female,Asymptomatic,Yes,Yes
+47,Male,Asymptomatic,Yes,Yes
+49,Male,Asymptomatic,Yes,Yes
+49,Male,Asymptomatic,No,Yes
+50,Male,Asymptomatic,Yes,Yes
+50,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+54,Female,Non-anginal pain,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+58,Female,Atypical angina,Yes,Yes
+65,Male,Asymptomatic,Yes,Yes
+32,Male,Typical angina,No,Yes
+34,Male,Asymptomatic,No,Yes
+35,Male,Asymptomatic,Yes,Yes
+36,Male,Asymptomatic,Yes,Yes
+38,Female,Asymptomatic,No,Yes
+38,Female,Asymptomatic,No,Yes
+38,Male,Non-anginal pain,No,No
+38,Male,Non-anginal pain,Yes,Yes
+38,Male,Asymptomatic,No,Yes
+38,Male,Asymptomatic,Yes,Yes
+40,Male,Asymptomatic,No,Yes
+41,Male,Asymptomatic,No,Yes
+42,Male,Asymptomatic,Yes,Yes
+42,Male,Asymptomatic,Yes,Yes
+43,Male,Asymptomatic,No,Yes
+43,Male,Asymptomatic,Yes,Yes
+43,Male,Asymptomatic,Yes,Yes
+45,Male,Non-anginal pain,No,No
+46,Male,Asymptomatic,No,Yes
+46,Male,Asymptomatic,Yes,Yes
+47,Male,Non-anginal pain,Yes,Yes
+47,Male,Non-anginal pain,Yes,Yes
+47,Male,Asymptomatic,No,Yes
+47,Male,Asymptomatic,Yes,Yes
+48,Male,Asymptomatic,No,Yes
+50,Female,Asymptomatic,No,Yes
+50,Male,Asymptomatic,Yes,Yes
+50,Male,Asymptomatic,Yes,Yes
+50,Male,Asymptomatic,Yes,Yes
+51,Female,Asymptomatic,Yes,Yes
+51,Male,Asymptomatic,No,Yes
+51,Male,Asymptomatic,No,Yes
+51,Male,Asymptomatic,No,Yes
+51,Male,Asymptomatic,No,Yes
+51,Male,Asymptomatic,No,Yes
+51,Male,Asymptomatic,No,Yes
+52,Male,Asymptomatic,No,Yes
+52,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+52,Male,Asymptomatic,Yes,Yes
+53,Male,Atypical angina,No,Yes
+53,Male,Atypical angina,No,No
+53,Male,Non-anginal pain,No,Yes
+53,Male,Non-anginal pain,Yes,Yes
+53,Male,Asymptomatic,No,Yes
+53,Male,Asymptomatic,No,Yes
+53,Male,Asymptomatic,Yes,Yes
+53,Male,Asymptomatic,Yes,No
+54,Male,Asymptomatic,No,Yes
+54,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,No,Yes
+55,Male,Atypical angina,No,No
+55,Male,Asymptomatic,No,Yes
+55,Male,Asymptomatic,No,Yes
+55,Male,Asymptomatic,No,Yes
+56,Male,Non-anginal pain,No,No
+56,Male,Non-anginal pain,No,Yes
+56,Male,Non-anginal pain,No,Yes
+56,Male,Asymptomatic,No,Yes
+56,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,No,Yes
+56,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+57,Male,Non-anginal pain,No,Yes
+57,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,No,Yes
+58,Male,Asymptomatic,No,Yes
+58,Male,Asymptomatic,Yes,Yes
+58,Male,Asymptomatic,Yes,Yes
+59,Male,Non-anginal pain,No,Yes
+59,Male,Asymptomatic,No,Yes
+59,Male,Asymptomatic,No,Yes
+59,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,Yes
+60,Male,Non-anginal pain,No,Yes
+60,Male,Asymptomatic,No,Yes
+60,Male,Asymptomatic,Yes,Yes
+60,Male,Asymptomatic,Yes,Yes
+60,Male,Asymptomatic,Yes,Yes
+60,Male,Asymptomatic,No,Yes
+61,Male,Non-anginal pain,No,Yes
+61,Male,Asymptomatic,Yes,Yes
+61,Male,Asymptomatic,No,Yes
+61,Male,Asymptomatic,Yes,Yes
+61,Male,Asymptomatic,No,Yes
+61,Male,Asymptomatic,No,Yes
+61,Male,Asymptomatic,Yes,Yes
+61,Male,Asymptomatic,Yes,Yes
+61,Male,Asymptomatic,No,Yes
+62,Female,Typical angina,No,Yes
+62,Female,Asymptomatic,Yes,Yes
+62,Male,Typical angina,No,Yes
+62,Male,Non-anginal pain,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,Yes,Yes
+63,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,Yes,Yes
+64,Female,Asymptomatic,Yes,Yes
+64,Female,Asymptomatic,No,Yes
+64,Male,Asymptomatic,Yes,Yes
+65,Male,Asymptomatic,Yes,Yes
+65,Male,Asymptomatic,No,Yes
+65,Male,Asymptomatic,No,No
+65,Male,Asymptomatic,No,Yes
+66,Female,Asymptomatic,No,Yes
+66,Male,Asymptomatic,Yes,Yes
+67,Male,Typical angina,No,Yes
+68,Male,Asymptomatic,Yes,Yes
+68,Male,Asymptomatic,No,Yes
+69,Male,Asymptomatic,No,Yes
+70,Male,Asymptomatic,Yes,Yes
+70,Male,Asymptomatic,Yes,Yes
+72,Male,Non-anginal pain,No,No
+73,Female,Non-anginal pain,No,Yes
+74,Male,Atypical angina,No,Yes
+63,Male,Asymptomatic,Yes,Yes
+44,Male,Asymptomatic,No,No
+60,Male,Asymptomatic,Yes,Yes
+55,Male,Asymptomatic,Yes,Yes
+66,Male,Non-anginal pain,Yes,No
+66,Male,Non-anginal pain,No,No
+65,Male,Asymptomatic,Yes,Yes
+60,Male,Non-anginal pain,Yes,No
+60,Male,Non-anginal pain,Yes,Yes
+60,Male,Atypical angina,No,Yes
+56,Male,Atypical angina,No,No
+59,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,No,No
+63,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,Yes,Yes
+63,Male,Asymptomatic,No,No
+60,Male,Asymptomatic,Yes,No
+58,Male,Asymptomatic,No,Yes
+64,Male,Asymptomatic,No,Yes
+63,Male,Non-anginal pain,Yes,Yes
+52,Male,Non-anginal pain,No,Yes
+69,Male,Asymptomatic,No,Yes
+60,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+77,Male,Asymptomatic,Yes,Yes
+63,Male,Asymptomatic,Yes,Yes
+55,Male,Non-anginal pain,No,Yes
+52,Male,Non-anginal pain,Yes,Yes
+64,Male,Asymptomatic,Yes,Yes
+60,Male,Asymptomatic,Yes,No
+59,Male,Asymptomatic,Yes,No
+61,Male,Non-anginal pain,Yes,Yes
+40,Male,Asymptomatic,No,Yes
+61,Male,Asymptomatic,No,Yes
+41,Male,Asymptomatic,No,No
+63,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,Yes
+51,Male,Asymptomatic,No,No
+59,Male,Non-anginal pain,Yes,Yes
+42,Male,Non-anginal pain,No,No
+55,Male,Non-anginal pain,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+56,Male,Atypical angina,No,No
+53,Male,Asymptomatic,No,Yes
+68,Male,Asymptomatic,Yes,Yes
+53,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,Yes
+61,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+56,Male,Non-anginal pain,Yes,Yes
+58,Male,Atypical angina,Yes,Yes
+69,Male,Non-anginal pain,No,Yes
+67,Male,Typical angina,No,Yes
+58,Male,Asymptomatic,Yes,Yes
+55,Male,Atypical angina,No,No
+57,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+72,Male,Non-anginal pain,Yes,Yes
+75,Male,Asymptomatic,No,Yes
+49,Male,Typical angina,No,Yes
+60,Male,Asymptomatic,Yes,Yes
+64,Female,Asymptomatic,Yes,Yes
+58,Male,Asymptomatic,No,No
+61,Male,Asymptomatic,Yes,Yes
+67,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+65,Male,Asymptomatic,Yes,Yes
+63,Male,Asymptomatic,Yes,Yes
+69,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+75,Male,Asymptomatic,Yes,Yes
+40,Male,Non-anginal pain,Yes,No
+67,Male,Asymptomatic,No,Yes
+58,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,Yes,Yes
+62,Male,Typical angina,Yes,Yes
+43,Male,Asymptomatic,No,Yes
+63,Male,Non-anginal pain,No,No
+68,Male,Non-anginal pain,No,Yes
+65,Male,Asymptomatic,Yes,Yes
+48,Male,Non-anginal pain,Yes,Yes
+63,Male,Asymptomatic,Yes,Yes
+64,Male,Asymptomatic,No,No
+61,Male,Asymptomatic,Yes,Yes
+50,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,Yes
+55,Male,Asymptomatic,No,No
+55,Male,Asymptomatic,No,Yes
+63,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,Yes
+74,Male,Asymptomatic,Yes,Yes
+54,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,No,No
+76,Male,Non-anginal pain,No,Yes
+54,Female,Asymptomatic,Yes,Yes
+70,Male,Asymptomatic,Yes,Yes
+61,Female,Atypical angina,Yes,No
+48,Male,Non-anginal pain,No,Yes
+61,Male,Typical angina,No,Yes
+66,Male,Asymptomatic,No,Yes
+55,Male,Asymptomatic,No,Yes
+62,Male,Non-anginal pain,No,No
+53,Male,Non-anginal pain,No,No
+58,Male,Non-anginal pain,Yes,Yes
+75,Male,Asymptomatic,Yes,No
+64,Male,Asymptomatic,Yes,Yes
+59,Male,Asymptomatic,Yes,No
+57,Male,Asymptomatic,Yes,Yes
+41,Male,Asymptomatic,Yes,No
+71,Male,Asymptomatic,Yes,Yes
+38,Male,Asymptomatic,Yes,Yes
+55,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,Yes,Yes
+64,Male,Asymptomatic,Yes,Yes
+72,Male,Asymptomatic,No,Yes
+62,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,Yes,Yes
+48,Male,Asymptomatic,Yes,Yes
+69,Male,Asymptomatic,Yes,Yes
+57,Male,Atypical angina,No,Yes
+53,Male,Asymptomatic,Yes,Yes
+37,Male,Non-anginal pain,No,No
+67,Male,Asymptomatic,Yes,Yes
+74,Male,Non-anginal pain,No,Yes
+58,Male,Asymptomatic,No,No
+61,Male,Asymptomatic,Yes,Yes
+64,Male,Asymptomatic,No,Yes
+58,Male,Asymptomatic,Yes,Yes
+60,Male,Asymptomatic,Yes,Yes
+57,Male,Asymptomatic,No,Yes
+55,Male,Asymptomatic,Yes,Yes
+56,Male,Asymptomatic,No,Yes
+57,Male,Asymptomatic,Yes,No
+61,Male,Non-anginal pain,Yes,Yes
+58,Male,Non-anginal pain,Yes,Yes
+74,Male,Asymptomatic,Yes,Yes
+68,Male,Non-anginal pain,Yes,No
+51,Female,Asymptomatic,No,No
+62,Male,Asymptomatic,Yes,Yes
+53,Male,Asymptomatic,Yes,Yes
+62,Male,Asymptomatic,Yes,Yes
+46,Male,Asymptomatic,No,Yes
+54,Female,Asymptomatic,No,Yes
+55,Male,Asymptomatic,No,Yes
+62,Male,Atypical angina,Yes,Yes
